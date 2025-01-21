@@ -3,6 +3,7 @@
 <!-- endhide -->
 
 <onlyfor saas="false" withBanner="false">
+
 ## 🌱 How to start this project?
 
 Do not clone this repository because we are going to use a different template.
@@ -16,6 +17,7 @@ https://github.com/4GeeksAcademy/flask-rest-hello
 ```
 
 > ⚠ You will need to have Python installed if you are working locally, but everything is preconfigured in Codespaces or Gitpod.
+
 </onlyfor>
 
 ## 📝 Instructions
