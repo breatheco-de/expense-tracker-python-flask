@@ -1,0 +1,20 @@
+{
+	"title": {
+	  "us": "Build a Personal Expense Tracker with Python and Flask",
+	  "es": "Construye un Rastreador de Gastos Personales con Python y Flask"
+	},
+	"slug": "personal-expense-tracker-python-flask",
+	"status": "published",
+	"duration": 6,
+	"template_url": "https://github.com/4GeeksAcademy/flask-rest-hello",
+	"preview": "",
+	"translations": ["es", "us"],
+	"difficulty": "intermediate",
+	"technologies": ["python", "flask", "sqlalchemy", "html", "css", "javascript"],
+	"description": {
+	  "us": "Learn to build a personal expense tracker using Python and Flask. Create APIs, manage data with SQLAlchemy, and design a user-friendly interface to track expenses effectively.",
+	  "es": "Aprende a crear un rastreador de gastos con Python y Flask. Diseña APIs, gestiona datos con SQLAlchemy y crea una interfaz amigable para rastrear gastos de forma efectiva."
+	},
+	"autoPlay": false,
+	"projectType": "project"
+}
